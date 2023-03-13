@@ -2,6 +2,10 @@
 
 Preconfigured template repository for React web applications
 
+## Installation
+
+### `npm install --no-audit --no-fund`
+
 ## Available Scripts
 
 In the project directory, you can run:
